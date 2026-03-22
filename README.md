@@ -9,3 +9,4 @@ Robotics & AI Engineer — Computer Vision, Reinforcement Learning, LLMs.
 - 👁️ **[Stereo Visual Odometry](https://github.com/K-bhuvan/Stereo-Visual-Odometry-SVO)** — Camera pose estimation from stereo imagery using classical CV techniques (research, Colorado School of Mines).
 - 🏭 **[Warehouse Automation](https://github.com/K-bhuvan/project1_warehouse_automation)** — Autonomous robot navigation and task planning for warehouse environments.
 - 🌊 **[Optical Flow Speed Estimation](https://github.com/K-bhuvan/Optical-Flow-for-vechicle-speed-estimation)** — Vehicle speed estimation from dashcam footage using optical flow on comma.ai data.
+- 🎨 **[Image Generation From Scratch](https://github.com/K-bhuvan/imgen_from_scratch)** — Text-to-image diffusion model built end-to-end from scratch with DDPM noise scheduling, text conditioning, and a lightweight HTTP inference API.
