@@ -4,9 +4,10 @@ Robotics & AI Engineer — Computer Vision, Reinforcement Learning, LLMs.
 
 ## Projects
 
+- 🎨 **[Image Generation From Scratch](https://github.com/K-bhuvan/imgen_from_scratch)** — Text-to-image diffusion model built end-to-end from scratch with DDPM noise scheduling, text conditioning, and a lightweight HTTP inference API.
 - 🧠 **[LLM From Scratch](https://github.com/K-bhuvan/llm-from-scratch)** — Transformer-based language model built and trained end-to-end from scratch.
 - 🚗 **[Autonomous Driving with RL](https://github.com/K-bhuvan/autonomous-driving-rl)** — PPO/SAC/TD3 policy gradient agents for vehicle control in simulation.
 - 👁️ **[Stereo Visual Odometry](https://github.com/K-bhuvan/Stereo-Visual-Odometry-SVO)** — Camera pose estimation from stereo imagery using classical CV techniques (research, Colorado School of Mines).
 - 🏭 **[Warehouse Automation](https://github.com/K-bhuvan/project1_warehouse_automation)** — Autonomous robot navigation and task planning for warehouse environments.
 - 🌊 **[Optical Flow Speed Estimation](https://github.com/K-bhuvan/Optical-Flow-for-vechicle-speed-estimation)** — Vehicle speed estimation from dashcam footage using optical flow on comma.ai data.
-- 🎨 **[Image Generation From Scratch](https://github.com/K-bhuvan/imgen_from_scratch)** — Text-to-image diffusion model built end-to-end from scratch with DDPM noise scheduling, text conditioning, and a lightweight HTTP inference API.
+
