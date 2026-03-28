@@ -1,6 +1,6 @@
 ## Hi👋, i'm Bhuvan 
 
-Spending my time getting machines to understand the world a little better — and occasionally solve useful problems along the way.
+Spending my time getting machines to understand the world a little better and occasionally solve useful problems along the way.
 
 ## Projects
 
