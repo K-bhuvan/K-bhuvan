@@ -1,6 +1,6 @@
-## Bhuvan K
+## Hi👋, i'm Bhuvan 
 
-Robotics & AI Engineer — Computer Vision, Reinforcement Learning, LLMs.
+Spending my time getting machines to understand the world a little better — and occasionally solve useful problems along the way.
 
 ## Projects
 
