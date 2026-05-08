@@ -4,6 +4,7 @@ Spending my time getting machines to understand the world a little better —and
 
 ## Projects
 
+- 🕹️ **[VLA-inference](https://github.com/K-bhuvan/vla-inference)** — This is a lightweight VLA showcase for running state‑of‑the‑art robot policies without training.
 - 🤖 **[VLA From Scratch](https://github.com/K-bhuvan/vla-from-scratch)** — Vision-Language-Action policy built and trained end-to-end from scratch on a single consumer GPU, with behavior cloning, DAgger-lite post-training, and a full evaluation harness.
 - 🎨 **[Image Generation From Scratch](https://github.com/K-bhuvan/imgen_from_scratch)** — Text-to-image diffusion model built end-to-end from scratch with DDPM noise scheduling, text conditioning, and a lightweight HTTP inference API.
 - 🧠 **[LLM From Scratch](https://github.com/K-bhuvan/llm-from-scratch)** — Transformer-based language model built and trained end-to-end from scratch.
