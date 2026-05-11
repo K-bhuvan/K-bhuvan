@@ -13,3 +13,5 @@ Spending my time getting machines to understand the world a little better —and
 - 🏭 **[Warehouse Automation](https://github.com/K-bhuvan/project1_warehouse_automation)** — Autonomous robot navigation and task planning for warehouse environments.
 - 🌊 **[Optical Flow Speed Estimation](https://github.com/K-bhuvan/Optical-Flow-for-vechicle-speed-estimation)** — Vehicle speed estimation from dashcam footage using optical flow on comma.ai data.
 
+
+- 🗺️ **[funmap](https://github.com/K-bhuvan/funmap)** — Interactive mapping project for exploring locations and spatial data.
