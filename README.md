@@ -4,6 +4,7 @@ Spending my time getting machines to understand the world a little better —and
 
 ## Projects
 
+- ☎︎ **[CallGist](https://github.com/K-bhuvan/CallGist)** — A weekly business-risk and opportunity report for owners who do not have time to review calls.
 - 🕵🏼‍♂️ **[ProblemFinder](https://github.com/K-bhuvan/ProblemFinder)** — Find worthy pain points from various discussions - emails daily digest. 
 - 🗺️ **[funmap](https://github.com/K-bhuvan/funmap)** — Interactive mapping project for exploring locations and spatial data.
 - 🕹️ **[VLA-inference](https://github.com/K-bhuvan/vla-inference)** — This is a lightweight VLA showcase for running state‑of‑the‑art robot policies without training.
