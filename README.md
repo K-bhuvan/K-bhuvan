@@ -6,7 +6,7 @@ Spending my time getting machines to understand the world a little better and oc
 
 - ☎︎ **[CallGist](https://github.com/K-bhuvan/CallGist)** — A weekly business-risk and opportunity report for owners who do not have time to review calls.
 - 🕵🏼‍♂️ **[ProblemFinder](https://github.com/K-bhuvan/ProblemFinder)** — Find worthy pain points from various discussions - emails daily digest. 
-- 🗺️ **[funmap](https://github.com/K-bhuvan/funmap)** — Interactive mapping project for exploring locations and spatial data.
+- 🗺️ **[funmap](https://github.com/K-bhuvan/funmap)** — Discover places worth leaving home for.
 - 🕹️ **[VLA-inference](https://github.com/K-bhuvan/vla-inference)** — This is a lightweight VLA showcase for running state‑of‑the‑art robot policies without training.
 - 🤖 **[VLA From Scratch](https://github.com/K-bhuvan/vla-from-scratch)** — Vision-Language-Action policy built and trained end-to-end from scratch on a single consumer GPU, with behavior cloning, DAgger-lite post-training, and a full evaluation harness.
 - 🎨 **[Image Generation From Scratch](https://github.com/K-bhuvan/imgen_from_scratch)** — Text-to-image diffusion model built end-to-end from scratch with DDPM noise scheduling, text conditioning, and a lightweight HTTP inference API.
