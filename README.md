@@ -3,7 +3,7 @@
 Spending my time getting machines to understand the world a little better and occasionally solve useful problems along the way.
 
 ## Projects
-
+- 👁️‍🗨️ **[SwarmMon](https://github.com/K-bhuvan/SwarmMon)**: Fleet observability for ROS robots in the field  live dashboard, offline detection, and alerting.
 - ☎︎ **[CallGist](https://github.com/K-bhuvan/CallGist)**: A weekly business-risk and opportunity report for owners who do not have time to review calls.
 - 🕵🏼‍♂️ **[ProblemFinder](https://github.com/K-bhuvan/ProblemFinder)**: Find worthy pain points from various discussions - emails daily digest. 
 - 🗺️ **[funmap](https://github.com/K-bhuvan/funmap)**: Discover places worth leaving home for.
