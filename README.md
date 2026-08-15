@@ -3,6 +3,7 @@
 Spending my time getting machines to understand the world a little better and occasionally solve useful problems along the way.
 
 ## Projects
+- ♟️ **[Chess-llm](https://github.com/K-bhuvan/chess-llm)**: Fine-tune Qwen3-4B on Stockfish-labeled chess positions with 4-bit QLoRA, optional GRPO, and a local play UI on a consumer GPU.
 - 📓 **[OpenMargam](https://github.com/K-bhuvan/openmargam)**: OpenMargam helps people find the right guide for the right path.
 - 👁️‍🗨️ **[SwarmMon](https://github.com/K-bhuvan/SwarmMon)**: Fleet observability for ROS robots in the field  live dashboard, offline detection, and alerting.
 - ☎︎ **[CallGist](https://github.com/K-bhuvan/CallGist)**: A weekly business-risk and opportunity report for owners who do not have time to review calls.
